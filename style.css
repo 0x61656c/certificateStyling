@@ -1,0 +1,186 @@
+#certificate-id-1{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius:5px;
+  box-shadow: 1px 2px #3c3c3c;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+#certificate-id-2{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius:5px;
+  border-color: #D3D3D3;
+  box-shadow: 2px 5px #D3D3D3;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+#certificate-id-3{
+  text-align:center;
+  border:5px;
+  border-style:solid;
+  border-width:1px;
+  border-radius:3px;
+  border-color: #D3D3D3;
+  box-shadow: 2px 5px #D3D3D3;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+#certificate-id-4{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius:5px;
+  border-color: #a9a9a9;
+  box-shadow: 1px 2px #a9a9a9;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  color: white;
+  background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+#certificate-id-5{
+  text-align:center;
+  border:5px;
+  border-style:solid;
+  border-width:1px;
+  border-radius:3px;
+  border-color: #D3D3D3;
+  box-shadow: 5px 10px #D3D3D3;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  color:white;
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+}
+
+#certificate-id-6{
+  text-align:center;
+  border:5px;
+  border-style:solid;
+  border-width:1px;
+  border-radius:3px;
+  border-color: #D3D3D3;
+  box-shadow: 5px 10px #D3D3D3;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  color:white;
+  background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+}
+
+#certificate-id-7{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius:5px;
+  border-color: #000;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  color: white;
+  font-size: 15px;
+  background: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+}
+
+#certificate-id-8{
+  text-align:center;
+  border:5px;
+  border-style:solid;
+  border-width:1px;
+  border-radius:10px;
+  border-color: #D3D3D3;
+  box-shadow: 5px 10px #D3D3D3;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  color:white;
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
+
+#certificate-id-9{
+  text-align:center;
+  border:5px;
+  border-style:solid;
+  border-width:1px;
+  border-radius:100px;
+  border-color: #36454f;
+  box-shadow: 2px 2px #36454f;
+  max-width:300px;
+  font-weight:200;
+  font-family: verdana;
+  font-size: 15px;
+  color:white;
+  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+}
+
+#certificate-id-10{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius: 100%;
+  border-color: #D3D3D3;
+  width:75px;
+  height:75px;
+  font-weight:200;
+  font-family: verdana;
+  color: white;
+  font-size: 15px;
+  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+}
+
+#certificate-id-11{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius: 100%;
+  border-color: #D3D3D3;
+  width:75px;
+  height:75px;
+  font-weight:200;
+  font-family: verdana;
+  color: white;
+  font-size: 15px;
+  background: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+}
+
+#certificate-id-12{
+  text-align:center;
+  border:10px;
+  border-style:solid;
+  border-width:2px;
+  border-radius: 100%;
+  border-color: #D3D3D3;
+  width:75px;
+  height:75px;
+  font-weight:200;
+  font-family: verdana;
+  color: white;
+  font-size: 15px;
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
